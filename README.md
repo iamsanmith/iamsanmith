@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanmith
 
-<!--
-**iamsanmith/iamsanmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer passionate about solving real-world problems through code and creativity.  
+I built [MetaSort](https://github.com/iamsanmith/MetaSort), a Rust-based tool that organizes and restores metadata to chaotic Google Takeout photos.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📦 Featured Projects
+
+[![MetaSort](https://github-readme-stats.vercel.app/api/pin/?username=iamsanmith&repo=MetaSort&theme=github_dark)](https://github.com/iamsanmith/MetaSort)
+
+<!-- Add more project cards below as you make new repos -->
+<!-- Example:
+[![MyProject](https://github-readme-stats.vercel.app/api/pin/?username=iamsanmith&repo=MyProject&theme=github_dark)](https://github.com/iamsanmith/MyProject)
 -->
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsanmith&layout=compact&theme=github_dark)  
+
