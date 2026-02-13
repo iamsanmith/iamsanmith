@@ -4,21 +4,19 @@
   <img style="100%" align=center src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
 
-<h5 align="center">Hey, Sanmith here,<br><br>I build tools ⚙️ I capture moments 📸</h5>
-
+<h3 align="center">Hey, Sanmith here</h5>
+<h5 align="center">I build tools ⚙️ I capture moments 📸</h5>
 ###
 
 <div align="center">
   <img height="300" src="https://i.ibb.co/CKLhrw0v/6368222.gif"  />
 </div>
 
-###
+
 
 <h5 align="center">Find Me Here :)</h5>
 
-###
 
 <br clear="both">
 
@@ -116,11 +114,26 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+    <h2 align='center'>Github Analytics ⚙️</h2>  
+
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsanmith&theme=github_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsanmith&theme=github_dark) |
+| --- | --- |
+
+<br><br>
+<p align="center">
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/>
+</p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamsanmith/iamsanmith/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamsanmith/iamsanmith/output/github-contribution-grid-snake.svg" />
+     <img src="https://raw.githubusercontent.com/iamsanmith/iamsanmith/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </picture>
+</p>
+
 </div>
+<img width="100%"
+    src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
 
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
