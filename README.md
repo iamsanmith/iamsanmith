@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanmith
 
-Self-taught developer passionate about solving real-world problems through code and creativity.  
+A Developer passionate about solving real-world problems through code and creativity.  
 I built [MetaSort](https://github.com/iamsanmith/MetaSort), a Rust-based tool that organizes and restores metadata to chaotic Google Takeout photos.
 
 ---
