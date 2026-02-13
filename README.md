@@ -27,12 +27,16 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="gmail logo"  />
   </a>
   <img width="12" />
-  <a href="https://x.com/imsanmith" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="35" alt="twitter logo"  />
-  </a>
-  <img width="12" />
   <a href="https://www.instagram.com/beyondsanmith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="instagram logo"  />
+  </a>
+  <img width="12" />
+   <a href="https://pixelfed.social/iamsanmith" target="_blank">
+    <img src="https://github.com/pixelfed/pixelfed/blob/dev/public/img/pixelfed-icon-color.svg"  height="35" alt="pixelfed logo"  />
+  </a>
+  <img width="12" />
+   <a href="https://x.com/imsanmith" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="35" alt="twitter logo"  />
   </a>
   <img width="12" />
   <a href="https://bsky.app/profile/iamsanmith.bsky.social" target="_blank">
@@ -40,7 +44,7 @@
   </a>
   <img width="12" />
   <a href="https://mastodon.social/@iamsanmith" target="_blank">
-    <img src="https://joinmastodon.org/logos/logo-purple.svg" height="35" alt="bluesky logo"  />
+    <img src="https://joinmastodon.org/logos/logo-purple.svg" height="35" alt="mastodon logo"  />
   </a>
   <img width="12" />
 </div>
